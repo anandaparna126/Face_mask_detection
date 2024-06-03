@@ -76,7 +76,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ### Additional Information
 
-For any questions, suggestions, or bug reports, please feel free to contact us at [your.email@example.com](mailto:your.email@example.com). We appreciate your interest in our Face Mask Detection project.
+For any questions, suggestions, or bug reports, please feel free to contact us at anandaparna1203@gmail.com(mailto:anandaparna1203@gmail.com). We appreciate your interest in our Face Mask Detection project.
 ```
-
-Make sure to replace `/path/to/dataset` and `/path/to/model` with the actual paths in your project. Customize the contact information, licensing terms, and any other details specific to your project as needed.
